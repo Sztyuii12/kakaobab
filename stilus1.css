@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+h1  {  color:yellow;}
+h2  {color:green;
+background: gray;
+}
+
+body {background-color: #C7AF86;
+      font-family: "Times New Roman" , Times, serif;
+	  font-family:Calibri ;
+	  background-image: url("hatter.gif");
+	  }
+	  
